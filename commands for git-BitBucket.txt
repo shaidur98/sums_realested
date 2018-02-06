@@ -1,0 +1,18 @@
+BitBucket.com->login and open site then apply the commands
+===============================================================
+
+
+git clone https://raton98083@bitbucket.org/oitzillu/sands.git  (clone site from server to local pc)
+
+
+git add -A (marged all files to local git in pc)
+
+
+git commit -m "The pogram is partialy completed" (add comments to local git)
+
+
+
+git pull origin master (marged all files to local pc)
+
+
+git push origin master  (upload all files to server)
